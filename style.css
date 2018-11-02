@@ -1,0 +1,62 @@
+html {
+  scroll-behavior: smooth;
+}
+h1 {
+	color: #006666;
+	font-size: 30px;
+	display: inline-block;
+}
+.logo {
+	width: 65px;
+}
+p {
+	font-family: Verdana;
+}
+.photo {
+	width: 450px;
+}
+.blok1{
+	width: 100%;
+	height: 100px;
+	background-image:url("img/20181030_112840.jpg");
+	background-size: 100%;
+	background-position: 0px -315px;
+	margin: 15px 0px;
+}
+.sboku{
+	width: 24%;
+	height: 2000px;
+	background-image:url("img/фон10.jfif");
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	position: fixed;
+}
+.main{
+	display: inline-block;
+	width: 70%;
+	vertical-align: top;
+	margin-left: 30%;
+}
+.all{
+	width: 1300px;
+	vertical-align: top;
+}
+.menu{
+	width: 70%;
+	margin: 10px 15%;
+	height: 300px;
+	background-color: #99FFCC;
+	text-align: center;
+	padding-top: 10px;
+	
+}
+.myname{
+	margin: 15px 15%;
+	background-color: #99FFCC;
+	width: 68%;
+	padding: 1%;
+}
+a.salka{
+	color: #006666;
+}
